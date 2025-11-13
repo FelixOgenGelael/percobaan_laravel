@@ -7,6 +7,7 @@
     <title>Document</title>
 </head>
 <body>
+    <h1>GitHub Deploy</h1>
     <h1>Hello World</h1>
     <a href="{{ route('feature') }}">Click saya untuk berpindah ke halaman Feature</a>
     <p>Data User</p>
